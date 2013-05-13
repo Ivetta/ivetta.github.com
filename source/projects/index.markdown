@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Проекты"
-date: 2013-05-13 15:50
 comments: false
 sharing: false
 footer: true
