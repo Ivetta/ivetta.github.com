@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "projects"
+title: "Проекты"
 date: 2013-05-13 15:50
 comments: false
 sharing: false
 footer: true
+sidebar: false
 ---
-
-#Projects
 
 If you need to blame someone, the best way to do so is by quoting them:
 
